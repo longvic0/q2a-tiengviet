@@ -140,7 +140,7 @@ return array(
 		'no_unupvoteda_qs_found' => 'Không tìm thấy câu hỏi nào chưa được thích',
 	'page_label' => 'Trang:',
 	'page_next' => 'sau',
-	'page_not_found' => 'Không tồn tại trang này,
+	'page_not_found' => 'Không tồn tại trang này',
 	'page_prev' => 'trước',
 	'popular_tags' => 'Từ khóa phổ biến nhất',
 		'questions_tagged_x' => 'Câu hỏi gần đây với từ khóa: ^',
