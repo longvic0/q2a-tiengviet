@@ -225,8 +225,8 @@ return array(
 	'x_seconds' => '^ giây',
 	'x_tags' => '^ tags',
 	'x_users' => '^ thành viên',
-	'x_views' => '^ lượt xem',
-	'x_votes' => '^ lượt thích',
+	'x_views' => '^ lượt',
+	'x_votes' => '^ thích',
 	'x_weeks' => '^ tuần',
 	'x_years' => '^ năm',
 );
