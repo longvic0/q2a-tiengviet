@@ -133,7 +133,7 @@ return array(
 	'q_notify_x_label' => 'Gửi email cho tôi (^) khi câu hỏi của tôi nhận được câu trả lời và bình luận',
 	'q_tags_comma_label' => 'Tags - dùng dấu phẩy (,) để ngăn cách:',
 	'q_tags_label' => 'Tags - dùng gạch nối để nối các từ:',
-	'q_title_label' => 'Câu hỏi này trong trạng thái:',
+	'q_title_label' => 'Tóm tắt câu hỏi trong một dòng:',
 	'q_waiting_approval' => 'Câu hỏi này đang đợi duyệt',
 	'q_waiting_your_approval' => 'Câu hỏi này đang dợi bạn phê duyệt',
 	'q_your_waiting_approval' => 'Câu hỏi của bạn sẽ được phê duyệt sớm thôi.',
