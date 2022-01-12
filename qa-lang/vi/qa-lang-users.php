@@ -19,7 +19,6 @@
 	More about this license: http://www.question2answer.org/license.php
 */
 
-return array(
 	return array(
 		'about' => 'Thông tin',
 		'add_user_x_favorites' => 'Thêm người dùng ^ vào yêu thích',
